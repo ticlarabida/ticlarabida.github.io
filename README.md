@@ -1,2 +1,2 @@
-# web
-Mi proyecto web en Github
+# web ticlarabida.github.io
+Este es mi proyecto web en Github
